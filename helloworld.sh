@@ -1,5 +1,7 @@
 #!/bin/bash
 
-echo "hello world"
-echo "This is my current working directory:"
-pwd
+#hello world with name
+myname="Levi"
+echo "Hello world, my name is $myname"
+echo "Today is $(date)"
+echo "My user name is $USER"
