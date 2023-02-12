@@ -2,6 +2,8 @@
 
 This repository contains personal scripts I have written to practice basic bash scripting as I work through various courses.
 
+Current course: https://www.youtube.com/watch?v=6N4RNPRx0xs&list=WL&index=2
+
 # Reference Notes:
 
 ## BASICS
